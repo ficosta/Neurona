@@ -2,9 +2,9 @@ C:\Users\felip\Documents\GIT\Neurona\Neurona\bin\Debug\Neurona.exe.config
 C:\Users\felip\Documents\GIT\Neurona\Neurona\bin\Debug\Neurona.exe
 C:\Users\felip\Documents\GIT\Neurona\Neurona\bin\Debug\Neurona.pdb
 C:\Users\felip\Documents\GIT\Neurona\Neurona\obj\Debug\Neurona.csprojAssemblyReference.cache
-C:\Users\felip\Documents\GIT\Neurona\Neurona\obj\Debug\Neurona.Form1.resources
 C:\Users\felip\Documents\GIT\Neurona\Neurona\obj\Debug\Neurona.Properties.Resources.resources
 C:\Users\felip\Documents\GIT\Neurona\Neurona\obj\Debug\Neurona.csproj.GenerateResource.cache
 C:\Users\felip\Documents\GIT\Neurona\Neurona\obj\Debug\Neurona.csproj.CoreCompileInputs.cache
 C:\Users\felip\Documents\GIT\Neurona\Neurona\obj\Debug\Neurona.exe
 C:\Users\felip\Documents\GIT\Neurona\Neurona\obj\Debug\Neurona.pdb
+C:\Users\felip\Documents\GIT\Neurona\Neurona\obj\Debug\Neurona.frmMain.resources
